@@ -1,0 +1,10 @@
+{
+  "id": "kl.koboldvision",
+  "name": "Kobold Vision",
+  "version": "1.2.0",
+  "author": "KrazenLabs",
+  "description": "Press V to see every spot of dirt and soap you missed on the dragon.",
+  "assembly": "KoboldVision.dll",
+  "loaderVersion": ">=1.2.0",
+  "url": "https://www.krazenlabs.com"
+}

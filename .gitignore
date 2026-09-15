@@ -1,0 +1,12 @@
+bin/
+obj/
+release/
+/*.dll
+/*.pdb
+/*.xml
+/docs/
+*.user
+.vs/
+*.af
+/promo/*
+*.ps1
